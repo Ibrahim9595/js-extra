@@ -2,6 +2,9 @@
 
 You will implement a backend to support a shopping application, the application will support login, registration, authentication, and authorization
 
+## General notes
+all data will be saved (in memory) using arrays
+
 ## APIS
 ### Users
 POST /login
